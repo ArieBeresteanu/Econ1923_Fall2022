@@ -8,5 +8,61 @@
         "height_inches" : 72.8,
         "author" : false,
         "tv show" : null
-    }
+    },
+
+        "Tracy" : {
+        "full name" : "Tracy Mcgrady",
+        "other names" : ["T-mac"],
+        "wikipedia" : "https://en.wikipedia.org/wiki/Tracy_McGrady",
+        "born" : 1979,
+        "place of birth" : "Florida, US",
+        "height_inches" : 79,
+        "author" : false,
+        "tv show" : null
+        },
+    
+    "Stephen" : {
+        "name" : "Stephen Curry",
+        "athlete" : true,
+        "wikipedia" : "https://en.wikipedia.org/wiki/Stephen_Curry",
+        "born" : 1988,
+        "number_of_children" : 2,
+        "religion" : "Christianity",
+        "three_point_shooter" : true,
+        "college" : "Davidson"
+    },
+   
+    "Viggo" : {
+		"full name": "Viggo Mortensen",
+		"actor": true,
+		"wikipedia": "https://en.wikipedia.org/wiki/Viggo_Mortensen",
+		"born": 1958,
+		"place of birth": "New York, US",
+		"height_inches": 71,
+		"author": true,
+		"movie": "The Lord of the Rings"
+	},
+	
+	"serena" : {
+		"full name" : " Serena Williams",
+		"wikipedia" : "https://en.wikipedia.org/wiki/Serena_Williams",
+		"born" : 1981,
+		"place of birth" : "Saginaw, Michigan",
+		"height_inches" : 69,
+		"athlete" : true,
+		"sport" : "tennis",
+		"author" : true
+    },
+	"brian" : {
+		"full name" : "Brian Dawkins",
+		"other names" : ["Weapon X"],
+		"wikipedia" : "https://en.wikipedia.org/wiki/Brian_Dawkins",
+		"born" : 1973,
+		"place of birth" : "Jacksonville, Florida",
+		"height_inches" : 72,
+		"athlete" : true,
+		"sport" : "football",
+		"teams" : ["The Philadelphia Eagles", "The Denver Broncos"]
+	},
+		
 }
