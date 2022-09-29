@@ -1,8 +1,8 @@
 { 
-    "dwayne" : {
+    "yuan" : {
         "full name" : "Robert Douglas Thomas Pattinson",
-        "other names" : "Robert Pattinson"],
-        "wikipedia" : "hhttps://en.wikipedia.org/wiki/Robert_Pattinson",
+        "other names" :[ "Robert Pattinson"],
+        "wikipedia" : "https://en.wikipedia.org/wiki/Robert_Pattinson",
         "born" : 1986,
         "place of birth" : "London",
         "height_inches" : 72.8,
