@@ -65,4 +65,15 @@
 		"teams" : ["The Philadelphia Eagles", "The Denver Broncos"]
 	},
 		
+	"Karim " : {
+		"full name" : "Karim Benzema",
+		"other names" : ["Coco"],
+		"wikipedia" : "https://en.wikipedia.org/wiki/Karim_Benzema",
+		"born" : 1987,
+		"place of birth" : "Lyon, France",
+		"height_inches" : 72,
+		"athlete" : true,
+		"sport" : "soccer",
+		"teams" : ["Real Madrid CF"]
+	},
 }
