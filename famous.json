@@ -1,11 +1,11 @@
 { 
     "dwayne" : {
-        "full name" : "Dwayne Johnson",
-        "other names" : ["The Rock", "Flex Kavana", "Rocky Maiva"],
-        "wikipedia" : "https://en.wikipedia.org/wiki/Dwayne_Johnson",
-        "born" : 1972,
-        "place of birth" : "Hayward, Callifornia",
-        "height_inches" : 77,
+        "full name" : "Robert Douglas Thomas Pattinson",
+        "other names" : "Robert Pattinson"],
+        "wikipedia" : "hhttps://en.wikipedia.org/wiki/Robert_Pattinson",
+        "born" : 1986,
+        "place of birth" : "London",
+        "height_inches" : 72.8,
         "author" : false,
         "tv show" : null
     }
