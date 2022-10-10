@@ -74,6 +74,18 @@
 		"height_inches" : 65,
 		"tv show" : ["Seinfeld", "Young Sheldon", "Curb Your Enthusiasm"],
 		"author" : true
+	},
+	
+	"judge": {
+		"full name": "Aaron Judge",
+		"baseball_player": true,
+		"wikipedia": "https://en.wikipedia.org/wiki/Aaron_Judge",
+		"born": 1992,
+		"teams": ["New York Yankees"],
+		"home_state": "California",
+		"height_inches": 79,
+		"2022_season_home_runs": 62
+
 	}
 		
 }
