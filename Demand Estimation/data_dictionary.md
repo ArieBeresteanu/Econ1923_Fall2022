@@ -24,7 +24,7 @@
 
 **weight**: thousand pounds
 
-**disp**: ???
+**disp**: disposition, the width between wheels
 
 **hp**: car's horse power
 
